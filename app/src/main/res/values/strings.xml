@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LokalAssignmentApp</string>
+    <string name="products">Products</string>
+    <string name="view_all">View All</string>
+    <string name="empty">Empty</string>
+    <string name="similar">Similar</string>
+</resources>
