@@ -5,11 +5,11 @@
 
 ## Features
 
-- **Products Screen:** Explore a curated list of products with intuitive navigation.
+- **Products Screen:** List of all the Categories with associated brands.
 
-- **Brand Products Screen:** Dive deeper into brand details and discover associated products.
+- **Brand Products Screen:** List of all the products for a particular brand.
 
-- **Product Detail Screen:** Get detailed insights into individual products and explore similar items.
+- **Product Detail Screen:** Detailed info of the product with similar items.
 
 ## App Link
 
