@@ -1,5 +1,8 @@
 # Lokal Android Intern Assignment App
 
+## Tech Stack
+- Jetpack Compose, Hilt, MVVM with Clean Architecture, Retrofit, Coroutines, Coil.
+
 ## Features
 
 - **Products Screen:** Explore a curated list of products with intuitive navigation.
